@@ -4,7 +4,7 @@ SROP
 Run make to compile the binaries.
 
 ## What is SROP?
-todo
+https://adamt.rocks/SROP
 
 ## 32 bit
 
